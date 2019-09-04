@@ -3,6 +3,6 @@
 		"version":"1.0.3",
 		"note":"更新提示",
         "apkUrl":"https://zhaofirststep.github.io/app/gsp-android.apk",
-        "iosUrl":"itms-services:///?action=download-manifest&url=https://zhaofirststep.github.io/ioshttp/x5.plist"
+        "ipaUrl":"itms-services:///?action=download-manifest&url=https://zhaofirststep.github.io/ioshttp/x5.plist"
     }
 }
