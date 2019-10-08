@@ -1,6 +1,6 @@
 {
 	"data":{
-		"version":"1.0.3",
+		"version":"1.0.30",
 		"note":"更新提示",
         "apkUrl":"https://zhaofirststep.github.io/app/gsp-android.apk",
         "ipaUrl":"itms-services:///?action=download-manifest&url=https://zhaofirststep.github.io/ioshttp/x5.plist"
